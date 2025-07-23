@@ -1,7 +1,7 @@
 # Simple Flask File Server
-A simple Flask application to serve files from a specified directory.
+A simple Flask application to share files from a specified directory.
 
 ## Run server
-```python
+```bash
 python main.py
 ```
